@@ -1,0 +1,24 @@
+{
+  "name": "backpack",
+  "version": "5.0.0-beta",
+  "description": "Backpack is an open source library of components and styles used to build experiences on lonelyplanet.com.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "precommit": "npm run test",
+    "publish": "lerna publish --conventional-commits",
+    "release": "standard-version",
+    "test": "lerna run test",
+    "commitmsg": "commitlint -e $GIT_PARAMS"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^6.2.0",
+    "@commitlint/config-conventional": "^6.1.3",
+    "@commitlint/travis-cli": "^6.2.0",
+    "husky": "^0.14.3",
+    "lerna": "^2.11.0",
+    "standard-version": "^4.3.0"
+  }
+}
