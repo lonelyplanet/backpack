@@ -30,7 +30,11 @@ $ npm install @lonelyplanet/backpack-design-tokens
 
 ## Usage
 
+There are three ways in which design tokens can be used in a front-end app, but only one is required.
+
 #### ES6 module
+
+ES6 modulds are used for apps built with Radium or other CSS-in-JS implementations. They can also be used with PostCSS; see the [webpack.config.js][webpack-config] file for an example.
 
 ```js
 import { styles } from "@lonelyplanet/backpack-design-tokens"; // everything at once, or
@@ -39,7 +43,11 @@ import { colors } from "@lonelyplanet/backpack-design-tokens"; // only what you 
 
 #### CSS custom properties
 
-Include `"@lonelyplanet/backpack-design-tokens/dist/css/index.css"` in your build.
+For apps using with CSS, include `"@lonelyplanet/backpack-design-tokens/dist/css/index.css"`.
+
+Be aware that CSS custom properties aren’t supported in any version of Internet Explorer or Opera Mini, so provide fallbacks as necessary. One way this can be done is with [postcss-custom-properties][postcss-custom-properties].
+
+View browser support at [Can I Use][can-i-use]
 
 ```css
 div {
@@ -49,9 +57,7 @@ div {
 
 #### SCSS variables
 
-SCSS usage is considered to be deprecated at this point meaning that no new front-end apps should be using Sass, but existing or legacy apps can use the design tokens by importing the partial.
-
-Include `"@lonelyplanet/backpack-design-tokens/dist/scss/index.scss"` in your build.
+SCSS usage is considered to be deprecated at this point meaning that no new front-end apps should be using Sass, but existing or legacy apps can use the design tokens by including `"@lonelyplanet/backpack-design-tokens/dist/scss/index.scss"`.
 
 ```scss
 div {
@@ -67,6 +73,9 @@ Please read the [Contributing][contrib] document before writing any code.
 
 [MIT License][license]
 
+[webpack-config]: https://github.com/lonelyplanet/backpack/packages/design-tokens/webpack.config.js
+[postcss-custom-properties]: https://github.com/postcss/postcss-custom-properties
+[can-i-use]: https://caniuse.com/#feat=css-variables
 [contrib]: https://github.com/lonelyplanet/backpack/packages/backpack-design-tokens/contributing.md
 [license]: https://github.com/lonelyplanet/backpack/packages/backpack-design-tokens/license.md
 [ci-img]: https://travis-ci.org/lonelyplanet/@lonelyplanet/backpack-styles.svg
