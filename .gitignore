@@ -1,6 +1,9 @@
+dist
+dist-es
 node_modules
 .vscode
 npm-debug.log
+lerna-debug.log
 .DS_Store
 *.DS_Store*
 _gh-pages
