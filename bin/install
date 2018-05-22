@@ -1,0 +1,10 @@
+#!/bin/bash -e
+
+echo 'Installing packages'
+npm i
+
+echo 'Bootstrapping packages'
+npm run bootstrap
+
+echo 'Building packages'
+npm run build
