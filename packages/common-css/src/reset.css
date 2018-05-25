@@ -1,0 +1,63 @@
+html, body, div, span, iframe, h1, h2, h3, h4, h5,
+h6, p, blockquote, pre, a, abbr, acronym, address,
+cite, code, em, img, q, strong, sub, sup, dl, dt,
+dd, ol, ul, li, fieldset, form, label, table,
+tbody, tfoot, thead, tr, th, td, article, aside,
+canvas, figure, figcaption, footer, header,
+hgroup, nav, section, time, mark, audio, video,
+input, button, select, textarea {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style: none;
+}
+
+img {
+  -ms-interpolation-mode: bicubic; /* Prevent some IE bugs in legacy code */
+  max-width: 100%;
+}
+
+a > img {
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+fieldset {
+  border: 0;
+}
+
+time {
+  display: inline;
+}
+
+hr {
+  border: 0; /* Override Chrome’s agressive defaults */
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  border-radius: 0;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+button,
+select {
+  line-height: normal;
+}
+
+button {
+  border: 0;
+}

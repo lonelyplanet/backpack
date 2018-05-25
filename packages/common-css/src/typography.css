@@ -1,0 +1,42 @@
+h1 {
+  font-size: var(--font-size-heading1);
+  font-weight: var(--typography-fontWeightMedium);
+  line-height: var(--typography-lineHeightHeading1);
+}
+
+h2 {
+  font-size: var(--font-size-heading2);
+  line-height: var(--typography-lineHeightHeading2);
+}
+
+h3 {
+  font-size: var(--font-size-heading3);
+  line-height: var(--typography-lineHeightHeading3);
+}
+
+h4 {
+  font-size: var(--font-size-heading4);
+  line-height: var(--typography-lineHeightHeading4);
+}
+
+h5 {
+  font-size: var(--font-size-heading5);
+  line-height: var(--typography-lineHeightHeading5);
+}
+
+h6 {
+  font-size: var(--font-size-heading6);
+  line-height: var(--typography-lineHeightHeading6);
+}
+
+a {
+  color: var(--color-brand-blue);
+  text-decoration: none;
+  transition: color var(--timing-default) ease;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: var(--color-brand-blue-70);
+}
