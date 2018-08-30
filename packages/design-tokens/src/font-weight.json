@@ -1,0 +1,20 @@
+{
+  global: {
+    type: "font-weight",
+    category: "font-weight",
+  },
+  props: [
+    {
+      name: "font-weight-light",
+      value: 300,
+    },
+    {
+      name: "font-weight-regular",
+      value: 500,
+    },
+    {
+      name: "font-weight-medium",
+      value: 600,
+    },
+  ],
+}
