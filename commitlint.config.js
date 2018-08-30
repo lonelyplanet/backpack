@@ -6,6 +6,9 @@ module.exports = {
       "feat",
       "fix",
       "chore",
+      "docs",
+      "refactor",
+      "improvement",
     ]],
   },
 };
