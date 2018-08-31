@@ -1,0 +1,628 @@
+{
+  "aliases": {},
+  "props": {
+    "color-amethyst": {
+      "category": "color",
+      "type": "color",
+      "name": "color-amethyst",
+      "value": "hsl(273, 47%, 60%)",
+      "originalValue": "#9d69c9"
+    },
+    "color-black": {
+      "category": "color",
+      "type": "color",
+      "name": "color-black",
+      "value": "hsl(0, 0%, 0%)",
+      "originalValue": "#000"
+    },
+    "color-brand-blue": {
+      "category": "color",
+      "type": "color",
+      "name": "color-brand-blue",
+      "value": "hsl(206, 65%, 44%)",
+      "originalValue": "#277bba"
+    },
+    "color-brand-blue-70": {
+      "category": "color",
+      "type": "color",
+      "name": "color-brand-blue-70",
+      "value": "hsl(206, 65%, 44%)",
+      "originalValue": "#277bba"
+    },
+    "color-butterscotch": {
+      "category": "color",
+      "type": "color",
+      "name": "color-butterscotch",
+      "value": "hsl(43, 100%, 62%)",
+      "originalValue": "#ffc83f"
+    },
+    "color-carnation": {
+      "category": "color",
+      "type": "color",
+      "name": "color-carnation",
+      "value": "hsl(347, 100%, 72%)",
+      "originalValue": "#ff6e8d"
+    },
+    "color-dark": {
+      "category": "color",
+      "type": "color",
+      "name": "color-dark",
+      "value": "hsl(214, 21%, 22%)",
+      "originalValue": "#2c3643"
+    },
+    "color-dark-93": {
+      "category": "color",
+      "type": "color",
+      "name": "color-dark-93",
+      "value": "hsl(214, 21%, 22%)",
+      "originalValue": "#2c3643"
+    },
+    "color-dark-70": {
+      "category": "color",
+      "type": "color",
+      "name": "color-dark-70",
+      "value": "hsl(214, 21%, 22%)",
+      "originalValue": "#2c3643"
+    },
+    "color-mango": {
+      "category": "color",
+      "type": "color",
+      "name": "color-mango",
+      "value": "hsl(26, 100%, 59%)",
+      "originalValue": "#ff882e"
+    },
+    "color-pale-blue": {
+      "category": "color",
+      "type": "color",
+      "name": "color-pale-blue",
+      "value": "hsl(198, 83%, 98%)",
+      "originalValue": "#f4fbfe"
+    },
+    "color-perrywinkle": {
+      "category": "color",
+      "type": "color",
+      "name": "color-perrywinkle",
+      "value": "hsl(207, 66%, 72%)",
+      "originalValue": "#88bde7"
+    },
+    "color-red": {
+      "category": "color",
+      "type": "color",
+      "name": "color-red",
+      "value": "hsl(0, 92%, 45%)",
+      "originalValue": "#da0909"
+    },
+    "color-red-pink": {
+      "category": "color",
+      "type": "color",
+      "name": "color-red-pink",
+      "value": "hsl(352, 93%, 58%)",
+      "originalValue": "#f8324d"
+    },
+    "color-seaweed": {
+      "category": "color",
+      "type": "color",
+      "name": "color-seaweed",
+      "value": "hsl(160, 80%, 44%)",
+      "originalValue": "#16c98d"
+    },
+    "color-silver": {
+      "category": "color",
+      "type": "color",
+      "name": "color-silver",
+      "value": "hsl(201, 16%, 75%)",
+      "originalValue": "#b6c3ca"
+    },
+    "color-silver-40": {
+      "category": "color",
+      "type": "color",
+      "name": "color-silver-40",
+      "value": "hsl(201, 16%, 75%)",
+      "originalValue": "#b6c3ca"
+    },
+    "color-white": {
+      "category": "color",
+      "type": "color",
+      "name": "color-white",
+      "value": "hsl(0, 0%, 100%)",
+      "originalValue": "#fff"
+    },
+    "font-size-super": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-super",
+      "value": "5.5em",
+      "originalValue": 88
+    },
+    "font-size-heading1": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading1",
+      "value": "4em",
+      "originalValue": 64
+    },
+    "font-size-heading2": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading2",
+      "value": "3em",
+      "originalValue": 48
+    },
+    "font-size-heading3": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading3",
+      "value": "2.5em",
+      "originalValue": 40
+    },
+    "font-size-heading4": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading4",
+      "value": "2em",
+      "originalValue": 32
+    },
+    "font-size-heading5": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading5",
+      "value": "1.5em",
+      "originalValue": 24
+    },
+    "font-size-heading6": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading6",
+      "value": "1.25em",
+      "originalValue": 20
+    },
+    "font-size-heading7": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading7",
+      "value": "1em",
+      "originalValue": 16
+    },
+    "font-size-heading8": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-heading8",
+      "value": "0.6875em",
+      "originalValue": 11
+    },
+    "font-size-bodyArticle": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-bodyArticle",
+      "value": "1.25em",
+      "originalValue": 20
+    },
+    "font-size-bodyArticleSmall": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-bodyArticleSmall",
+      "value": "1em",
+      "originalValue": 16
+    },
+    "font-size-bodySmall": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-bodySmall",
+      "value": "0.875em",
+      "originalValue": 14
+    },
+    "font-size-accent": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-accent",
+      "value": "1em",
+      "originalValue": 16
+    },
+    "font-size-uppercase": {
+      "type": "font-size",
+      "category": "font-size",
+      "name": "font-size-uppercase",
+      "value": "0.0625em",
+      "originalValue": 1
+    },
+    "font-weight-light": {
+      "type": "font-weight",
+      "category": "font-weight",
+      "name": "font-weight-light",
+      "value": 300,
+      "originalValue": 300
+    },
+    "font-weight-regular": {
+      "type": "font-weight",
+      "category": "font-weight",
+      "name": "font-weight-regular",
+      "value": 500,
+      "originalValue": 500
+    },
+    "font-weight-medium": {
+      "type": "font-weight",
+      "category": "font-weight",
+      "name": "font-weight-medium",
+      "value": 600,
+      "originalValue": 600
+    },
+    "mq-min-1430": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1430",
+      "value": "89.375em",
+      "originalValue": 1430
+    },
+    "mq-min-1410": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1410",
+      "value": "88.125em",
+      "originalValue": 1410
+    },
+    "mq-min-1350": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1350",
+      "value": "84.375em",
+      "originalValue": 1350
+    },
+    "mq-min-1290": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1290",
+      "value": "80.625em",
+      "originalValue": 1290
+    },
+    "mq-min-1200": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1200",
+      "value": "75em",
+      "originalValue": 1200
+    },
+    "mq-min-1080": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1080",
+      "value": "67.5em",
+      "originalValue": 1080
+    },
+    "mq-min-1024": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-1024",
+      "value": "64em",
+      "originalValue": 1024
+    },
+    "mq-min-960": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-960",
+      "value": "60em",
+      "originalValue": 960
+    },
+    "mq-min-840": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-840",
+      "value": "52.5em",
+      "originalValue": 840
+    },
+    "mq-min-768": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-768",
+      "value": "48em",
+      "originalValue": 768
+    },
+    "mq-min-720": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-720",
+      "value": "45em",
+      "originalValue": 720
+    },
+    "mq-min-600": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-600",
+      "value": "37.5em",
+      "originalValue": 600
+    },
+    "mq-min-560": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-560",
+      "value": "35em",
+      "originalValue": 560
+    },
+    "mq-min-480": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-480",
+      "value": "30em",
+      "originalValue": 480
+    },
+    "mq-min-360": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-360",
+      "value": "22.5em",
+      "originalValue": 360
+    },
+    "mq-min-320": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-min-320",
+      "value": "20em",
+      "originalValue": 320
+    },
+    "mq-max-1430": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1430",
+      "value": "89.375em",
+      "originalValue": 1430
+    },
+    "mq-max-1410": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1410",
+      "value": "88.125em",
+      "originalValue": 1410
+    },
+    "mq-max-1350": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1350",
+      "value": "84.375em",
+      "originalValue": 1350
+    },
+    "mq-max-1290": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1290",
+      "value": "80.625em",
+      "originalValue": 1290
+    },
+    "mq-max-1200": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1200",
+      "value": "75em",
+      "originalValue": 1200
+    },
+    "mq-max-1080": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1080",
+      "value": "67.5em",
+      "originalValue": 1080
+    },
+    "mq-max-1024": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-1024",
+      "value": "64em",
+      "originalValue": 1024
+    },
+    "mq-max-960": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-960",
+      "value": "60em",
+      "originalValue": 960
+    },
+    "mq-max-840": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-840",
+      "value": "52.5em",
+      "originalValue": 840
+    },
+    "mq-max-768": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-768",
+      "value": "48em",
+      "originalValue": 768
+    },
+    "mq-max-720": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-720",
+      "value": "45em",
+      "originalValue": 720
+    },
+    "mq-max-600": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-600",
+      "value": "37.5em",
+      "originalValue": 600
+    },
+    "mq-max-560": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-560",
+      "value": "35em",
+      "originalValue": 560
+    },
+    "mq-max-480": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-480",
+      "value": "30em",
+      "originalValue": 480
+    },
+    "mq-max-360": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-360",
+      "value": "22.5em",
+      "originalValue": 360
+    },
+    "mq-max-320": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-max-320",
+      "value": "20em",
+      "originalValue": 320
+    },
+    "mq-layout-phoneStart": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-phoneStart",
+      "value": "20em",
+      "originalValue": 320
+    },
+    "mq-layout-phoneEnd": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-phoneEnd",
+      "value": "47.9375em",
+      "originalValue": 767
+    },
+    "mq-layout-tabletStart": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-tabletStart",
+      "value": "48em",
+      "originalValue": 768
+    },
+    "mq-layout-tabletEnd": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-tabletEnd",
+      "value": "63.9375em",
+      "originalValue": 1023
+    },
+    "mq-layout-laptopStart": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-laptopStart",
+      "value": "64em",
+      "originalValue": 1024
+    },
+    "mq-layout-laptopEnd": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-laptopEnd",
+      "value": "84.5625em",
+      "originalValue": 1353
+    },
+    "mq-layout-desktopStart": {
+      "category": "media-query",
+      "type": "media-query",
+      "name": "mq-layout-desktopStart",
+      "value": "84.625em",
+      "originalValue": 1354
+    },
+    "timing-fast": {
+      "type": "timing",
+      "category": "time",
+      "name": "timing-fast",
+      "value": "200ms",
+      "originalValue": 200
+    },
+    "timing-default": {
+      "type": "timing",
+      "category": "time",
+      "name": "timing-default",
+      "value": "400ms",
+      "originalValue": 400
+    },
+    "timing-slow": {
+      "type": "timing",
+      "category": "time",
+      "name": "timing-slow",
+      "value": "800ms",
+      "originalValue": 800
+    },
+    "typeface-benton": {
+      "type": "typeface",
+      "category": "font-family",
+      "name": "typeface-benton",
+      "value": "\"Benton Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+      "originalValue": "\"Benton Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "typeface-miller": {
+      "type": "typeface",
+      "category": "font-family",
+      "name": "typeface-miller",
+      "value": "\"Miller Daily\", Georgia, Times, \"Times New Roman\", serif",
+      "originalValue": "\"Miller Daily\", Georgia, Times, \"Times New Roman\", serif"
+    },
+    "z-index-auto": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-auto",
+      "value": "auto",
+      "originalValue": "auto"
+    },
+    "z-index-below": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-below",
+      "value": -1,
+      "originalValue": -1
+    },
+    "z-index-default": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-default",
+      "value": 1,
+      "originalValue": 1
+    },
+    "z-index-popup": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-popup",
+      "value": 4000,
+      "originalValue": 4000
+    },
+    "z-index-dialog": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-dialog",
+      "value": 5000,
+      "originalValue": 5000
+    },
+    "z-index-dropdown": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-dropdown",
+      "value": 6000,
+      "originalValue": 6000
+    },
+    "z-index-overlay": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-overlay",
+      "value": 7000,
+      "originalValue": 7000
+    },
+    "z-index-menu": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-menu",
+      "value": 8000,
+      "originalValue": 8000
+    },
+    "z-index-modal": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-modal",
+      "value": 9000,
+      "originalValue": 9000
+    },
+    "z-index-toast": {
+      "type": "z-index",
+      "category": "z-index",
+      "name": "z-index-toast",
+      "value": 1000,
+      "originalValue": 1000
+    }
+  }
+}

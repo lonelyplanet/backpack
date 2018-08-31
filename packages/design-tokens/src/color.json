@@ -1,0 +1,80 @@
+{
+  global: {
+    category: "color",
+    type: "color",
+  },
+  props: [
+    {
+      name: "color-amethyst",
+      value: "#9d69c9",
+    },
+    {
+      name: "color-black",
+      value: "#000",
+    },
+    {
+      name: "color-brand-blue",
+      value: "#277bba",
+    },
+    {
+      name: "color-brand-blue-70",
+      value: "#277bba",
+    },
+    {
+      name: "color-butterscotch",
+      value: "#ffc83f",
+    },
+    {
+      name: "color-carnation",
+      value: "#ff6e8d",
+    },
+    {
+      name: "color-dark",
+      value: "#2c3643",
+    },
+    {
+      name: "color-dark-93",
+      value: "#2c3643",
+    },
+    {
+      name: "color-dark-70",
+      value: "#2c3643",
+    },
+    {
+      name: "color-mango",
+      value: "#ff882e",
+    },
+    {
+      name: "color-pale-blue",
+      value: "#f4fbfe",
+    },
+    {
+      name: "color-perrywinkle",
+      value: "#88bde7",
+    },
+    {
+      name: "color-red",
+      value: "#da0909",
+    },
+    {
+      name: "color-red-pink",
+      value: "#f8324d",
+    },
+    {
+      name: "color-seaweed",
+      value: "#16c98d",
+    },
+    {
+      name: "color-silver",
+      value: "#b6c3ca",
+    },
+    {
+      name: "color-silver-40",
+      value: "#b6c3ca",
+    },
+    {
+      name: "color-white",
+      value: "#fff",
+    },
+  ],
+}

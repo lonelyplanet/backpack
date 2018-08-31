@@ -1,0 +1,48 @@
+{
+  global: {
+    type: "z-index",
+    category: "z-index",
+  },
+  props:[
+    {
+      name: "z-index-auto",
+      value: "auto",
+    },
+    {
+      name: "z-index-below",
+      value: -1,
+    },
+    {
+      name: "z-index-default",
+      value: 1,
+    },
+    {
+      name: "z-index-popup",
+      value: 4000,
+    },
+    {
+      name: "z-index-dialog",
+      value: 5000,
+    },
+    {
+      name: "z-index-dropdown",
+      value: 6000,
+    },
+    {
+      name: "z-index-overlay",
+      value: 7000,
+    },
+    {
+      name: "z-index-menu",
+      value: 8000,
+    },
+    {
+      name: "z-index-modal",
+      value: 9000,
+    },
+    {
+      name: "z-index-toast",
+      value: 1000,
+    },
+  ],
+}

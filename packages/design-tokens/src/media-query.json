@@ -1,0 +1,164 @@
+{
+  global: {
+    category: "media-query",
+    type: "media-query",
+  },
+  props: [
+    {
+      name: "mq-min-1430",
+      value: 1430,
+    },
+    {
+      name: "mq-min-1410",
+      value: 1410,
+    },
+    {
+      name: "mq-min-1350",
+      value: 1350,
+    },
+    {
+      name: "mq-min-1290",
+      value: 1290,
+    },
+    {
+      name: "mq-min-1200",
+      value: 1200,
+    },
+    {
+      name: "mq-min-1080",
+      value: 1080,
+    },
+    {
+      name: "mq-min-1024",
+      value: 1024,
+    },
+    {
+      name: "mq-min-960",
+      value: 960,
+    },
+    {
+      name: "mq-min-840",
+      value: 840,
+    },
+    {
+      name: "mq-min-768",
+      value: 768,
+    },
+    {
+      name: "mq-min-720",
+      value: 720,
+    },
+    {
+      name: "mq-min-600",
+      value: 600,
+    },
+    {
+      name: "mq-min-560",
+      value: 560,
+    },
+    {
+      name: "mq-min-480",
+      value: 480,
+    },
+    {
+      name: "mq-min-360",
+      value: 360,
+    },
+    {
+      name: "mq-min-320",
+      value: 320,
+    },
+    {
+      name: "mq-max-1430",
+      value: 1430,
+    },
+    {
+      name: "mq-max-1410",
+      value: 1410,
+    },
+    {
+      name: "mq-max-1350",
+      value: 1350,
+    },
+    {
+      name: "mq-max-1290",
+      value: 1290,
+    },
+    {
+      name: "mq-max-1200",
+      value: 1200,
+    },
+    {
+      name: "mq-max-1080",
+      value: 1080,
+    },
+    {
+      name: "mq-max-1024",
+      value: 1024,
+    },
+    {
+      name: "mq-max-960",
+      value: 960,
+    },
+    {
+      name: "mq-max-840",
+      value: 840,
+    },
+    {
+      name: "mq-max-768",
+      value: 768,
+    },
+    {
+      name: "mq-max-720",
+      value: 720,
+    },
+    {
+      name: "mq-max-600",
+      value: 600,
+    },
+    {
+      name: "mq-max-560",
+      value: 560,
+    },
+    {
+      name: "mq-max-480",
+      value: 480,
+    },
+    {
+      name: "mq-max-360",
+      value: 360,
+    },
+    {
+      name: "mq-max-320",
+      value: 320,
+    },
+    {
+      name: "mq-layout-phoneStart",
+      value: 320,
+    },
+    {
+      name: "mq-layout-phoneEnd",
+      value: 767,
+    },
+    {
+      name: "mq-layout-tabletStart",
+      value: 768,
+    },
+    {
+      name: "mq-layout-tabletEnd",
+      value: 1023,
+    },
+    {
+      name: "mq-layout-laptopStart",
+      value: 1024,
+    },
+    {
+      name: "mq-layout-laptopEnd",
+      value: 1353,
+    },
+    {
+      name: "mq-layout-desktopStart",
+      value: 1354,
+    },
+  ],
+}

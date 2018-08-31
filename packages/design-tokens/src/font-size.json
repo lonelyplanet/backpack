@@ -1,0 +1,64 @@
+{
+  global: {
+    type: "font-size",
+    category: "font-size",
+  },
+  props: [
+    {
+      name: "font-size-super",
+      value: 88,
+    },
+    {
+      name: "font-size-heading1",
+      value: 64,
+    },
+    {
+      name: "font-size-heading2",
+      value: 48,
+    },
+    {
+      name: "font-size-heading3",
+      value: 40,
+    },
+    {
+      name: "font-size-heading4",
+      value: 32,
+    },
+    {
+      name: "font-size-heading5",
+      value: 24,
+    },
+    {
+      name: "font-size-heading6",
+      value: 20,
+    },
+    {
+      name: "font-size-heading7",
+      value: 16,
+    },
+    {
+      name: "font-size-heading8",
+      value: 11,
+    },
+    {
+      name: "font-size-bodyArticle",
+      value: 20,
+    },
+    {
+      name: "font-size-bodyArticleSmall",
+      value: 16,
+    },
+    {
+      name: "font-size-bodySmall",
+      value: 14,
+    },
+    {
+      name: "font-size-accent",
+      value: 16,
+    },
+    {
+      name: "font-size-uppercase",
+      value: 1,
+    },
+  ],
+}

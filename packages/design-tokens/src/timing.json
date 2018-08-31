@@ -1,0 +1,20 @@
+{
+  global: {
+    type: "timing",
+    category: "time",
+  },
+  props: [
+    {
+      name: "timing-fast",
+      value: 200,
+    },
+    {
+      name: "timing-default",
+      value: 400,
+    },
+    {
+      name: "timing-slow",
+      value: 800,
+    },
+  ],
+}

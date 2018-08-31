@@ -1,0 +1,16 @@
+{
+  global:{
+    type: "typeface",
+    category: "font-family",
+  },
+  props: [
+    {
+      name: "typeface-benton",
+      value: '"Benton Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+    },
+    {
+      name: "typeface-miller",
+      value: '"Miller Daily", Georgia, Times, "Times New Roman", serif',
+    },
+  ],
+}
