@@ -12,7 +12,6 @@
   },
   "author": "Lonely Planet",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "color": "^3.0.0",
     "theo": "^8.0.0-beta.2"
