@@ -9,6 +9,8 @@ module.exports = {
       "docs",
       "refactor",
       "improvement",
+      "dependencies",
+      "maintenance",
     ]],
   },
 };
