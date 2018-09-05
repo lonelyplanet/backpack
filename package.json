@@ -4,6 +4,10 @@
   "description": "Backpack is an open source library of components and styles used to build experiences on lonelyplanet.com.",
   "license": "MIT",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lonelyplanet/backpack.git"
+  },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
