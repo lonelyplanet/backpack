@@ -1,4 +1,4 @@
-# design-tokens [![Build Status][ci-img]][ci]
+# design-tokens
 
 This package contains the design tokens (styles) used across Lonely Planet’s digital products.
 
@@ -188,7 +188,5 @@ Please read the [Contributing][contrib] document before writing any code.
 [theo-docs]: https://github.com/salesforce-ux/theo#design-tokens-
 [postcss-custom-properties]: https://github.com/postcss/postcss-custom-properties
 [can-i-use]: https://caniuse.com/#feat=css-variables
-[contrib]: https://github.com/lonelyplanet/backpack/packages/design-tokens/contributing.md
-[license]: https://github.com/lonelyplanet/backpack/packages/design-tokens/license.md
-[ci-img]: https://travis-ci.org/lonelyplanet/@lonelyplanet/backpack/packages/design-tokens.svg
-[ci]: https://travis-ci.org/lonelyplanet/@lonelyplanet/backpack/packages/design-tokens
+[contrib]: https://github.com/lonelyplanet/backpack/blob/master/packages/design-tokens/CONTRIBUTING.md
+[license]: https://github.com/lonelyplanet/backpack/blob/master/packages/design-tokens/LICENSE
