@@ -1,7 +1,7 @@
 {
   global: {
-    type: "z-index",
     category: "z-index",
+    type: "z-index",
   },
   props:[
     {

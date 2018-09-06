@@ -2,246 +2,246 @@
   "aliases": {},
   "props": {
     "color-amethyst": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-amethyst",
       "value": "hsl(273, 47%, 60%)",
       "originalValue": "#9d69c9"
     },
     "color-black": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-black",
       "value": "hsl(0, 0%, 0%)",
       "originalValue": "#000"
     },
     "color-brand-blue": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-brand-blue",
       "value": "hsl(206, 65%, 44%)",
       "originalValue": "#277bba"
     },
     "color-brand-blue-70": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-brand-blue-70",
-      "value": "hsl(206, 65%, 44%)",
-      "originalValue": "#277bba"
+      "value": "hsla(206, 65%, 44%, 0.7)",
+      "originalValue": "#277bbab3"
     },
     "color-butterscotch": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-butterscotch",
       "value": "hsl(43, 100%, 62%)",
       "originalValue": "#ffc83f"
     },
     "color-carnation": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-carnation",
       "value": "hsl(347, 100%, 72%)",
       "originalValue": "#ff6e8d"
     },
     "color-dark": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-dark",
       "value": "hsl(214, 21%, 22%)",
       "originalValue": "#2c3643"
     },
     "color-dark-93": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-dark-93",
-      "value": "hsl(214, 21%, 22%)",
-      "originalValue": "#2c3643"
+      "value": "hsla(214, 21%, 22%, 0.93)",
+      "originalValue": "#2c3643ed"
     },
     "color-dark-70": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-dark-70",
-      "value": "hsl(214, 21%, 22%)",
-      "originalValue": "#2c3643"
+      "value": "hsla(214, 21%, 22%, 0.7)",
+      "originalValue": "#2c3643b3"
     },
     "color-mango": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-mango",
       "value": "hsl(26, 100%, 59%)",
       "originalValue": "#ff882e"
     },
     "color-pale-blue": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-pale-blue",
       "value": "hsl(198, 83%, 98%)",
       "originalValue": "#f4fbfe"
     },
     "color-perrywinkle": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-perrywinkle",
       "value": "hsl(207, 66%, 72%)",
       "originalValue": "#88bde7"
     },
     "color-red": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-red",
       "value": "hsl(0, 92%, 45%)",
       "originalValue": "#da0909"
     },
     "color-red-pink": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-red-pink",
       "value": "hsl(352, 93%, 58%)",
       "originalValue": "#f8324d"
     },
     "color-seaweed": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-seaweed",
       "value": "hsl(160, 80%, 44%)",
       "originalValue": "#16c98d"
     },
     "color-silver": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-silver",
       "value": "hsl(201, 16%, 75%)",
       "originalValue": "#b6c3ca"
     },
     "color-silver-40": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-silver-40",
-      "value": "hsl(201, 16%, 75%)",
-      "originalValue": "#b6c3ca"
+      "value": "hsla(201, 16%, 75%, 0.4)",
+      "originalValue": "#b6c3ca66"
     },
     "color-white": {
-      "category": "color",
+      "category": "background-color",
       "type": "color",
       "name": "color-white",
       "value": "hsl(0, 0%, 100%)",
       "originalValue": "#fff"
     },
     "font-size-super": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-super",
       "value": "5.5em",
       "originalValue": 88
     },
     "font-size-heading1": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading1",
       "value": "4em",
       "originalValue": 64
     },
     "font-size-heading2": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading2",
       "value": "3em",
       "originalValue": 48
     },
     "font-size-heading3": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading3",
       "value": "2.5em",
       "originalValue": 40
     },
     "font-size-heading4": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading4",
       "value": "2em",
       "originalValue": 32
     },
     "font-size-heading5": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading5",
       "value": "1.5em",
       "originalValue": 24
     },
     "font-size-heading6": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading6",
       "value": "1.25em",
       "originalValue": 20
     },
     "font-size-heading7": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading7",
       "value": "1em",
       "originalValue": 16
     },
     "font-size-heading8": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-heading8",
       "value": "0.6875em",
       "originalValue": 11
     },
     "font-size-bodyArticle": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-bodyArticle",
       "value": "1.25em",
       "originalValue": 20
     },
     "font-size-bodyArticleSmall": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-bodyArticleSmall",
       "value": "1em",
       "originalValue": 16
     },
     "font-size-bodySmall": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-bodySmall",
       "value": "0.875em",
       "originalValue": 14
     },
     "font-size-accent": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-accent",
       "value": "1em",
       "originalValue": 16
     },
     "font-size-uppercase": {
-      "type": "font-size",
       "category": "font-size",
+      "type": "font-size",
       "name": "font-size-uppercase",
       "value": "0.0625em",
       "originalValue": 1
     },
     "font-weight-light": {
-      "type": "font-weight",
       "category": "font-weight",
+      "type": "font-weight",
       "name": "font-weight-light",
       "value": 300,
       "originalValue": 300
     },
     "font-weight-regular": {
-      "type": "font-weight",
       "category": "font-weight",
+      "type": "font-weight",
       "name": "font-weight-regular",
       "value": 500,
       "originalValue": 500
     },
     "font-weight-medium": {
-      "type": "font-weight",
       "category": "font-weight",
+      "type": "font-weight",
       "name": "font-weight-medium",
       "value": 600,
       "originalValue": 600
@@ -520,106 +520,106 @@
       "originalValue": 1354
     },
     "timing-fast": {
-      "type": "timing",
       "category": "time",
+      "type": "timing",
       "name": "timing-fast",
       "value": "200ms",
       "originalValue": 200
     },
     "timing-default": {
-      "type": "timing",
       "category": "time",
+      "type": "timing",
       "name": "timing-default",
       "value": "400ms",
       "originalValue": 400
     },
     "timing-slow": {
-      "type": "timing",
       "category": "time",
+      "type": "timing",
       "name": "timing-slow",
       "value": "800ms",
       "originalValue": 800
     },
     "typeface-benton": {
-      "type": "typeface",
       "category": "font-family",
+      "type": "typeface",
       "name": "typeface-benton",
       "value": "\"Benton Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
       "originalValue": "\"Benton Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
     },
     "typeface-miller": {
-      "type": "typeface",
       "category": "font-family",
+      "type": "typeface",
       "name": "typeface-miller",
       "value": "\"Miller Daily\", Georgia, Times, \"Times New Roman\", serif",
       "originalValue": "\"Miller Daily\", Georgia, Times, \"Times New Roman\", serif"
     },
     "z-index-auto": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-auto",
       "value": "auto",
       "originalValue": "auto"
     },
     "z-index-below": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-below",
       "value": -1,
       "originalValue": -1
     },
     "z-index-default": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-default",
       "value": 1,
       "originalValue": 1
     },
     "z-index-popup": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-popup",
       "value": 4000,
       "originalValue": 4000
     },
     "z-index-dialog": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-dialog",
       "value": 5000,
       "originalValue": 5000
     },
     "z-index-dropdown": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-dropdown",
       "value": 6000,
       "originalValue": 6000
     },
     "z-index-overlay": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-overlay",
       "value": 7000,
       "originalValue": 7000
     },
     "z-index-menu": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-menu",
       "value": 8000,
       "originalValue": 8000
     },
     "z-index-modal": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-modal",
       "value": 9000,
       "originalValue": 9000
     },
     "z-index-toast": {
-      "type": "z-index",
       "category": "z-index",
+      "type": "z-index",
       "name": "z-index-toast",
       "value": 1000,
       "originalValue": 1000

@@ -1,6 +1,6 @@
 {
   global: {
-    category: "color",
+    category: "background-color",
     type: "color",
   },
   props: [
@@ -18,7 +18,7 @@
     },
     {
       name: "color-brand-blue-70",
-      value: "#277bba",
+      value: "#277bbab3",
     },
     {
       name: "color-butterscotch",
@@ -34,11 +34,11 @@
     },
     {
       name: "color-dark-93",
-      value: "#2c3643",
+      value: "#2c3643ed",
     },
     {
       name: "color-dark-70",
-      value: "#2c3643",
+      value: "#2c3643b3",
     },
     {
       name: "color-mango",
@@ -70,7 +70,7 @@
     },
     {
       name: "color-silver-40",
-      value: "#b6c3ca",
+      value: "#b6c3ca66",
     },
     {
       name: "color-white",

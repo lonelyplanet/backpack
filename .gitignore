@@ -6,3 +6,4 @@ lerna-debug.log
 *.DS_Store*
 _gh-pages
 .env
+tmp
