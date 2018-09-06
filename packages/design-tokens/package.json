@@ -6,8 +6,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "npm run clean && theo ./src/tokens.json --setup transform.js --transform web --format custom-properties.css,scss,module.js,common.js,raw.json --dest ./dist",
-    "clean": "rm -rf dist",
+    "build": "rm -rf dist && theo ./src/tokens.json --setup transform.js --transform web --format custom-properties.css,scss,module.js,common.js,raw.json --dest ./dist",
     "prepublishOnly": "npm run build"
   },
   "author": "Lonely Planet",
