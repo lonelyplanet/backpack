@@ -1,7 +1,7 @@
 {
   global: {
-    type: "timing",
     category: "time",
+    type: "timing",
   },
   props: [
     {

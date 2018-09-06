@@ -1,7 +1,7 @@
 {
   global:{
-    type: "typeface",
     category: "font-family",
+    type: "typeface",
   },
   props: [
     {

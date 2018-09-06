@@ -1,7 +1,7 @@
 {
   global: {
-    type: "font-size",
     category: "font-size",
+    type: "font-size",
   },
   props: [
     {
