@@ -12,7 +12,7 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "precommit": "npm run test",
-    "publish": "lerna publish --conventional-commits",
+    "publish": "lerna publish --conventional-commits --message \"chore: Publish\"",
     "release": "standard-version",
     "test": "lerna run test",
     "commitmsg": "commitlint -e $GIT_PARAMS"
