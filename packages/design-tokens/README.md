@@ -165,6 +165,7 @@ The only script you’ll need to run is `build`.
 | Script | Description |
 | ------ | ----------- |
 | `build` | Transforms design tokens into defined formats |
+| `preview` | Transforms design tokens and opens HTML file where styles are displayed |
 | `prepublishOnly` | Runs the `build` script _before_ the package is prepared and packed, _only_ on `npm publish` |
 
 ## Dependencies
