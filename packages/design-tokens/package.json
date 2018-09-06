@@ -1,6 +1,6 @@
 {
   "name": "@lonelyplanet/design-tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "design-tokens contains the design tokens used across lonelyplanet.com",
   "publishConfig": {
     "access": "public"
