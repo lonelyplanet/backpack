@@ -1,6 +1,6 @@
 {
   global: {
-    category: "color",
+    category: "background-color",
     type: "color",
   },
   props: [
