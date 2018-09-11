@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "stylelint-config-standard"
+  ],
+  "plugins": [],
+  "ignoreFiles": ["dist"],
+  "rules": {
+    "selector-list-comma-newline-after": null,
+    "selector-pseudo-element-colon-notation": "double",
+    "declaration-block-no-redundant-longhand-properties": [true, {
+      ignoreShorthands: ["flex-flow", "grid-gap"]
+    }]
+  }
+}
