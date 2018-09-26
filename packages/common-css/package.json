@@ -21,7 +21,7 @@
     "extends @lonelyplanet/browserslist-config"
   ],
   "dependencies": {
-    "@lonelyplanet/design-tokens": "^1.0.0",
+    "@lonelyplanet/design-tokens": "^1.0.1",
     "normalize.css": "^8.0.0"
   },
   "devDependencies": {
