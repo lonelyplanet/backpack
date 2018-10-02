@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.0.1...@lonelyplanet/common-css@1.0.2) (2018-10-02)
+
+
+### Bug Fixes
+
+* Add font-smoothing property to root ([#14](https://github.com/lonelyplanet/backpack/issues/14)) ([96ecd68](https://github.com/lonelyplanet/backpack/commit/96ecd68))
+
+
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.0.0...@lonelyplanet/common-css@1.0.1) (2018-09-26)
 

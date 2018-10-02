@@ -1,6 +1,6 @@
 {
   "name": "@lonelyplanet/common-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "common-css provides a global stylesheet to be used across lonelyplanet.com",
   "main": "dist/common.css",
   "publishConfig": {
