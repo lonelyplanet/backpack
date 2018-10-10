@@ -1,9 +1,19 @@
-/* .display-none used for ads */
+/**
+ * @Deprecated
+ * .is-hidden and .display-none are deprecated and are included only for
+ * legacy support. The hidden attribute should be used for all cases
+ * going forward.
+ */
 .is-hidden,
 .display-none {
   display: none !important;
 }
 
+/**
+ * @Deprecated
+ * .is-relative is deprecated and is only included for legacy support.
+ * Use the `position: relative;` declaration instead of a classname.
+ */
 .is-relative {
   position: relative;
 }
@@ -18,6 +28,12 @@
   width: 1px !important;
 }
 
+/**
+ * @Deprecated
+ * .clearfix is deprecated and is only included for legacy support.
+ * Layouts should be built with grid and flexbox, which do not use
+ * floats.
+ */
 .clearfix::before,
 .clearfix::after {
   content: " ";
