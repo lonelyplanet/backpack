@@ -1,0 +1,6 @@
+@custom-media --mq-phone-end (max-width: 47.9375em); /* 767px */
+@custom-media --mq-tablet-start (min-width: 48em); /* 768px */
+@custom-media --mq-tablet-end (max-width: 63.9375em); /* 1023px */
+@custom-media --mq-laptop-start (min-width: 64em); /* 1024px */
+@custom-media --mq-laptop-end (max-width: 84.5625em); /* 1353px */
+@custom-media --mq-desktop-start (min-width: 84.625em); /* (1290px + 32px * 2) 1354px */

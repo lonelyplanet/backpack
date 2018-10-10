@@ -1,0 +1,50 @@
+@import "./custom-media.css";
+
+/**
+ * The following custom properties are to be used with grid layout. The
+ * grid changes at each breakpoint are reflected below.
+ *
+ * Terminology:
+ *
+ * grid: area with columns and rows
+ * column: vertical track
+ * row: horizontal track
+ *
+ * Custom properties:
+ *
+ * --grid-column-gap: Amount of space between grid columns
+ * --grid-column-margin: Amount of space between grid container and browser window
+ * --grid-column-width: Width of each column; 1fr value means “use available space”
+ * --grid-columns: Number of columns in layout
+ * --grid-row-gap: Amount of space between grid rows
+ */
+
+:root {
+  --grid-column-gap: 16px;
+  --grid-column-margin: 0;
+  --grid-column-width: 1fr;
+  --grid-columns: 4;
+  --grid-row-gap: 32px;
+}
+
+@media (--mq-tablet-start) {
+  :root {
+    --grid-columns: 8;
+  }
+}
+
+@media (--mq-laptop-start) {
+  :root {
+    --grid-column-gap: 24px;
+    --grid-column-margin: 8px;
+    --grid-columns: 12;
+  }
+}
+
+@media (--mq-desktop-start) {
+  :root {
+    --grid-column-gap: 30px;
+    --grid-column-margin: 1fr;
+    --grid-column-width: 80px;
+  }
+}
