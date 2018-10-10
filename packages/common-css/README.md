@@ -49,7 +49,7 @@ The only script you’ll need to run is `build`.
 | @lonelyplanet/design-tokens | This package contains the design tokens (styles) used across Lonely Planet’s digital products; it’s part of the Backpack monorepo. |
 | @lonelyplanet/browserslist-config | This package contains information about Lonely Planet’s browser support for Autoprefixer. |
 | normalize.css | Normalize.css makes browsers render all elements more consistently and in line with modern standards. It is used in place of a full CSS reset. |
-| PostCSS | PostCSS is a tool for transforming styles with JS plugins. Plugins include `postcss-calc`, `postcss-custom-properties` and `postcss-import`. The separate CLI tool for PostCSS is also installed. |
+| PostCSS | PostCSS is a tool for transforming styles with JS plugins. Plugins include `postcss-calc`, `postcss-custom-media`, `postcss-custom-properties` and `postcss-import`. The separate CLI tool for PostCSS is also installed. |
 | Autoprefixer | Autoprefixer is a PostCSS plugin that parses CSS and adds vendor prefixes to CSS rules using values from the Can I Use website. |
 | cssnano | cssnano is CSS minifier built on top of the PostCSS ecosystem. |
 | Webpack | Webpack is a module bundler for the web. Loaders include `css-loader`, `extract-text-webpack-plugin`, `postcss-loader` and `style-loader`. The separate CLI tool for Webpack is also installed. |

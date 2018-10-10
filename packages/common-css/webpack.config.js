@@ -3,6 +3,7 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const autoprefixer = require("autoprefixer");
 const atImport = require("postcss-import");
 const calc = require("postcss-calc");
+const postcssCustomMedia = require("postcss-custom-media");
 const postCSSCustomProperties = require("postcss-custom-properties");
 const cssnano = require("cssnano");
 
@@ -12,6 +13,7 @@ const filename = "[name]";
 const postCSSPlugins = [
   atImport(),
   postCSSCustomProperties(),
+  postcssCustomMedia(),
   calc(),
   autoprefixer(),
 ];
