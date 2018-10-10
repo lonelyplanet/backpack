@@ -4,15 +4,15 @@ const autoprefixer = require("autoprefixer");
 const atImport = require("postcss-import");
 const calc = require("postcss-calc");
 const postcssCustomMedia = require("postcss-custom-media");
-const postCSSCustomProperties = require("postcss-custom-properties");
+const postcssCustomProperties = require("postcss-custom-properties");
 const cssnano = require("cssnano");
 
 const isProduction = process.env.NODE_ENV === "production";
 const filename = "[name]";
 
-const postCSSPlugins = [
+const postcssPlugins = [
   atImport(),
-  postCSSCustomProperties(),
+  postcssCustomProperties(),
   postcssCustomMedia(),
   calc(),
   autoprefixer(),
@@ -26,8 +26,8 @@ const loaders = {
     loader: "postcss-loader",
     options: {
       plugins: () => isProduction ?
-        postCSSPlugins.concat(cssnano()) :
-        postCSSPlugins,
+        postcssPlugins.concat(cssnano()) :
+        postcssPlugins,
     },
   },
 };
