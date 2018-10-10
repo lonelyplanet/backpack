@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.0.3...@lonelyplanet/common-css@1.1.0) (2018-10-10)
+
+
+### Bug Fixes
+
+* Add hidden attribute selector to base.css ([e0937f9](https://github.com/lonelyplanet/backpack/commit/e0937f9))
+* Import fonts.css below design-tokens ([5493470](https://github.com/lonelyplanet/backpack/commit/5493470))
+
+
+### Features
+
+* Add custom-media.css ([75583ae](https://github.com/lonelyplanet/backpack/commit/75583ae))
+* Add grid.css ([3543f7f](https://github.com/lonelyplanet/backpack/commit/3543f7f))
+
+
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.0.2...@lonelyplanet/common-css@1.0.3) (2018-10-02)
 
