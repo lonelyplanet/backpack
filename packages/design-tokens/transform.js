@@ -18,10 +18,16 @@ module.exports = theo => {
   );
 
   theo.registerValueTransform(
+    "pxValue/web",
+    prop => prop.get("type") === "sizing",
+    prop => prop.get("value") + "px",
+  );
+
+  theo.registerValueTransform(
     "timing/web",
     prop => prop.get("type") === "timing",
     prop => prop.get("value") + "ms",
   );
 
-  theo.registerTransform("web", ["color/hsl", "fontSize/web", "timing/web"]);
+  theo.registerTransform("web", ["color/hsl", "fontSize/web", "pxValue/web", "timing/web"]);
 }
