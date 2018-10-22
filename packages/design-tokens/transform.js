@@ -12,7 +12,7 @@ module.exports = theo => {
   );
 
   theo.registerValueTransform(
-    "fontSize/web",
+    "emValue/web",
     prop => prop.get("type") === "font-size" || prop.get("type") === "media-query",
     prop => (prop.get("value") / 16) + "em",
   );
@@ -29,5 +29,5 @@ module.exports = theo => {
     prop => prop.get("value") + "ms",
   );
 
-  theo.registerTransform("web", ["color/hsl", "fontSize/web", "pxValue/web", "timing/web"]);
+  theo.registerTransform("web", ["color/hsl", "emValue/web", "pxValue/web", "timing/web"]);
 }
