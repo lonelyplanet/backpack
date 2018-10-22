@@ -1,6 +1,6 @@
 {
   "name": "@lonelyplanet/common-css",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "common-css provides a global stylesheet to be used across lonelyplanet.com",
   "main": "dist/common.css",
   "publishConfig": {
@@ -21,7 +21,7 @@
     "extends @lonelyplanet/browserslist-config"
   ],
   "dependencies": {
-    "@lonelyplanet/design-tokens": "^1.0.1",
+    "@lonelyplanet/design-tokens": "^1.1.0",
     "normalize.css": "^8.0.0"
   },
   "devDependencies": {

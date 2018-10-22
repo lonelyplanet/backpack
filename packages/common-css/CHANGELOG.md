@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.1.0...@lonelyplanet/common-css@1.1.1) (2018-10-22)
+
+
+### Bug Fixes
+
+* Replace custom properties with values for Benton font weights ([8586fee](https://github.com/lonelyplanet/backpack/commit/8586fee))
+
+
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/lonelyplanet/backpack/compare/@lonelyplanet/common-css@1.0.3...@lonelyplanet/common-css@1.1.0) (2018-10-10)
 
