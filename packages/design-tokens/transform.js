@@ -13,13 +13,13 @@ module.exports = theo => {
 
   theo.registerValueTransform(
     "emValue/web",
-    prop => prop.get("type") === "font-size" || prop.get("type") === "media-query",
+    prop => prop.get("type") === "media-query",
     prop => (prop.get("value") / 16) + "em",
   );
 
   theo.registerValueTransform(
     "pxValue/web",
-    prop => prop.get("type") === "sizing",
+    prop => prop.get("type") === "font-size" || prop.get("type") === "sizing",
     prop => prop.get("value") + "px",
   );
 
