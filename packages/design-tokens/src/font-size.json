@@ -58,7 +58,7 @@
     },
     {
       name: "font-size-uppercase",
-      value: 1,
+      value: 11,
     },
   ],
 }

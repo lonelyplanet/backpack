@@ -15,6 +15,13 @@
       "value": "hsl(0, 0%, 0%)",
       "originalValue": "#000"
     },
+    "color-black-30": {
+      "category": "background-color",
+      "type": "color",
+      "name": "color-black-30",
+      "value": "hsla(0, 0%, 0%, 0.3)",
+      "originalValue": "rgba(0, 0, 0, .3)"
+    },
     "color-brand-blue": {
       "category": "background-color",
       "type": "color",
@@ -131,99 +138,99 @@
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-super",
-      "value": "5.5em",
+      "value": "88px",
       "originalValue": 88
     },
     "font-size-heading1": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading1",
-      "value": "4em",
+      "value": "64px",
       "originalValue": 64
     },
     "font-size-heading2": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading2",
-      "value": "3em",
+      "value": "48px",
       "originalValue": 48
     },
     "font-size-heading3": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading3",
-      "value": "2.5em",
+      "value": "40px",
       "originalValue": 40
     },
     "font-size-heading4": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading4",
-      "value": "2em",
+      "value": "32px",
       "originalValue": 32
     },
     "font-size-heading5": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading5",
-      "value": "1.5em",
+      "value": "24px",
       "originalValue": 24
     },
     "font-size-heading6": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading6",
-      "value": "1.25em",
+      "value": "20px",
       "originalValue": 20
     },
     "font-size-heading7": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading7",
-      "value": "1em",
+      "value": "16px",
       "originalValue": 16
     },
     "font-size-heading8": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-heading8",
-      "value": "0.6875em",
+      "value": "11px",
       "originalValue": 11
     },
     "font-size-bodyArticle": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-bodyArticle",
-      "value": "1.25em",
+      "value": "20px",
       "originalValue": 20
     },
     "font-size-bodyArticleSmall": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-bodyArticleSmall",
-      "value": "1em",
+      "value": "16px",
       "originalValue": 16
     },
     "font-size-bodySmall": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-bodySmall",
-      "value": "0.875em",
+      "value": "14px",
       "originalValue": 14
     },
     "font-size-accent": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-accent",
-      "value": "1em",
+      "value": "16px",
       "originalValue": 16
     },
     "font-size-uppercase": {
       "category": "font-size",
       "type": "font-size",
       "name": "font-size-uppercase",
-      "value": "0.0625em",
-      "originalValue": 1
+      "value": "11px",
+      "originalValue": 11
     },
     "font-weight-light": {
       "category": "font-weight",
@@ -518,6 +525,13 @@
       "name": "mq-layout-desktopStart",
       "value": "84.625em",
       "originalValue": 1354
+    },
+    "max-width": {
+      "category": "sizing",
+      "type": "sizing",
+      "name": "max-width",
+      "value": "1290px",
+      "originalValue": 1290
     },
     "timing-fast": {
       "category": "time",

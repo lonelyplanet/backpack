@@ -1,0 +1,12 @@
+{
+  global: {
+    category: "sizing",
+    type: "sizing",
+  },
+  props: [
+    {
+      name: "max-width",
+      value: 1290,
+    },
+  ],
+}
